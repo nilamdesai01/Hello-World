@@ -1,2 +1,3 @@
 # Hello-World
 Trial Repo
+Learning GIT and associated commands...
